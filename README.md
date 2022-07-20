@@ -14,7 +14,7 @@ I’ve already had a little knowledge about working with GIT. But it was also us
 
 1.
 
-This lesson made me acquainted with Linux, command line, and HTTP tools in this lesson.
+This lesson made me acquainted with Linux, command line, and HTTP tools.
 Linux Survival is a fascinating site for studying Linux. All information is structured and easily explained.
 Also want to notice articles about HTTP tools. I covered the complex aspects of how HTTP works: connection implementation, identification/authentication, and hashing. And I got a good idea about the variety of issues solved by the HTTP protocol.
 
