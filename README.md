@@ -11,3 +11,8 @@ I’ve already had a little knowledge about working with GIT. But it was also us
 ![image](https://user-images.githubusercontent.com/72020978/179950432-e766ca30-ae82-4acf-bca6-4bce95a669f1.png)
 
 
+##Task_linux_cli
+
+1)
+
+![2 1](https://user-images.githubusercontent.com/72020978/180031105-44edf3ed-bfea-4ecd-aabf-bb70a3d4734c.png)
