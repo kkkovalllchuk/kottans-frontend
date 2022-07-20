@@ -10,9 +10,12 @@ I’ve already had a little knowledge about working with GIT. But it was also us
 ![image](https://user-images.githubusercontent.com/72020978/179950338-d488bece-57ea-4fa0-9b99-bc204753fd1e.png)
 ![image](https://user-images.githubusercontent.com/72020978/179950432-e766ca30-ae82-4acf-bca6-4bce95a669f1.png)
 
-
 ##Task_linux_cli
 
-1)
+1.
+
+This lesson made me acquainted with Linux, command line, and HTTP tools in this lesson.
+Linux Survival is a fascinating site for studying Linux. All information is structured and easily explained.
+Also want to notice articles about HTTP tools. I covered the complex aspects of how HTTP works: connection implementation, identification/authentication, and hashing. And I got a good idea about the variety of issues solved by the HTTP protocol.
 
 ![2 1](https://user-images.githubusercontent.com/72020978/180031105-44edf3ed-bfea-4ecd-aabf-bb70a3d4734c.png)
