@@ -21,3 +21,8 @@ Also want to notice articles about HTTP tools. I covered the complex aspects of 
 ![2 1](https://user-images.githubusercontent.com/72020978/180031105-44edf3ed-bfea-4ecd-aabf-bb70a3d4734c.png)
 
 ## Git Collaboration
+
+The same work with GIT. Unfortunately, I mistakenly confused something, when I did the first lesson with GIT ((( So,I passed the required tasks when I completed the levels for the first time.
+![2 1](https://user-images.githubusercontent.com/72020978/180062276-6984f33f-74a9-4c24-85bd-4805c8509bf8.png)
+
+![2 2](https://user-images.githubusercontent.com/72020978/180062321-b9af9c18-8212-49d2-8c9e-eea510293373.png)
