@@ -23,3 +23,7 @@ Also want to notice articles about HTTP tools. I covered the complex aspects of 
 ## Git Collaboration
 
 The same work with GIT. Unfortunately, I mistakenly confused something, when I did the first lesson with GIT ((( So,I passed the required tasks when I completed the levels for the first time.
+![2 1](https://user-images.githubusercontent.com/72020978/180061000-510a23e2-0447-4556-bb92-cbbe05969092.png)
+
+
+![2 2](https://user-images.githubusercontent.com/72020978/180061035-4ec84bd8-9f10-4841-992e-4a1068102a79.png)
