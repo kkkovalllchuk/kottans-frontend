@@ -21,5 +21,7 @@ Also want to notice articles about HTTP tools. I covered the complex aspects of 
 ![2 1](https://user-images.githubusercontent.com/72020978/180031105-44edf3ed-bfea-4ecd-aabf-bb70a3d4734c.png)
 
 ## Git Collaboration
-
+1.
+This course was certainly more difficult than the first, but also more useful!
+2.
 The same work with GIT. Unfortunately, I mistakenly confused something, when I did the first lesson with GIT ((( So,I passed the required tasks when I completed the levels for the first time.
