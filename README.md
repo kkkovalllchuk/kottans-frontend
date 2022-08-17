@@ -23,6 +23,7 @@ Also want to notice articles about HTTP tools. I covered the complex aspects of 
 ## Git Collaboration
 
 The same work with GIT. Unfortunately, I mistakenly confused something, when I did the first lesson with GIT ((( So,I passed the required tasks when I completed the levels for the first time.
+<<<<<<< HEAD
 
 ## Intro to HTML and CSS
 
@@ -40,3 +41,8 @@ As always the lesson was so absorbing.  I’ve been following this YouTube chann
 ## JS Basics
 
 All I can say is that it was difficult, but nothing is impossible. Having also reviewed additional materials, I decided to read the book You Don't Know JS Yet: Get Started - 2nd Edition.
+=======
+![2 1](https://user-images.githubusercontent.com/72020978/180062276-6984f33f-74a9-4c24-85bd-4805c8509bf8.png)
+
+![2 2](https://user-images.githubusercontent.com/72020978/180062321-b9af9c18-8212-49d2-8c9e-eea510293373.png)
+>>>>>>> 31e15ee61bf33eb526962a7590f9a6ee9230953a
