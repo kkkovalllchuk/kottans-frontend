@@ -21,7 +21,22 @@ Also want to notice articles about HTTP tools. I covered the complex aspects of 
 ![2 1](https://user-images.githubusercontent.com/72020978/180031105-44edf3ed-bfea-4ecd-aabf-bb70a3d4734c.png)
 
 ## Git Collaboration
-1.
-This course was certainly more difficult than the first, but also more useful!
-2.
+
 The same work with GIT. Unfortunately, I mistakenly confused something, when I did the first lesson with GIT ((( So,I passed the required tasks when I completed the levels for the first time.
+
+## Intro to HTML and CSS
+
+I’ve updated my knowledge about HTML and CSS.  I took the course about it and also solve different tasks on this topic. In my opinion, the materials provided by the course are very structured and there is nothing superfluous in them. 
+
+
+## Responsive Web Design
+
+
+As always the lesson was so absorbing.  I’ve been following this YouTube channel for a long time and can confidently say, that blogger is one of my favorite YouTubers on this theme. Also, I can't miss the presented games for passing, it's very cool when you can learn while playing!
+
+## HTML-CSS-Popup
+
+
+## JS Basics
+
+All I can say is that it was difficult, but nothing is impossible. Having also reviewed additional materials, I decided to read the book You Don't Know JS Yet: Get Started - 2nd Edition.
